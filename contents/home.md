@@ -6,4 +6,4 @@ To solve the above problems, we propose a two-branch network architecture (WHANe
   <img src="static/assets/img/1.png" alt="dataset" width="800" height="550">
 </div>
 This dataset will be soon released publicly. Permission to use copy, or modify this dataset, tool and codes for educational and research purposes.
-E-mail : mafei0603@163.com or 1849783136@qq.com
+E-mail : mafei2006@qq.com or 1849783136@qq.com
